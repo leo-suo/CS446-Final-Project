@@ -1,2 +1,2 @@
-# CS446-Final-Project
-CS446 Final Project (y3suo Darren w54tang )
+# CS446-Project
+CS446 Project (y3suo Darren w54tang )
